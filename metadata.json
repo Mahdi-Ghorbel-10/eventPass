@@ -1,0 +1,6 @@
+{
+  "name": "EventPass - Ticketing & Gate Scanner",
+  "description": "All-in-one event ticketing infrastructure with ClicToPay, Konnect, Flouci checkout, cash ticket seller POS with automatic PDF delivery, organizer PIN pairing, and sub-300ms offline gate scanning.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
